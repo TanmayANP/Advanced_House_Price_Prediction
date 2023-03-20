@@ -5,7 +5,7 @@
 * Evaluated and optimized various ML models with cross-validation and graphs to reach the best model.
 ## Code and Resources Used
 **Python version:** 3.8  
-**Packages:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, IPytho  
+**Packages:** numpy, pandas, matplotlib, seaborn, scipy, scikit-learn, IPython  
 **Dataset:** https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data  
 ## Data Description
 We have the data of all the houses sold in the Ames, Iowa region between 2006 and 2010. The data set contains 2930 observations and various explanatory variables (23 nominal, 23 ordinal, 14 discrete, and 20 continuous) involved in assessing home values. For the categories in specific columns check the **data_description.txt** file. For further information on the data collection and preparation follow these links:-
